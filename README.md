@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OpenCoreMMO Emulator Server
+- 🌱 I’m currently learning .NET Core, C# and Azure
+- 👯 I’m looking to collaborate on any interesting projects
+- 🤔 I’m looking for help with low level subjects
+- 📫 How to reach me: linkedin.com/in/caiovidal/
+
 <!--
 **caioavidal/caioavidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
