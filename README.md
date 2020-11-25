@@ -6,4 +6,6 @@
 - 🤔 I’m looking for help with emulation development
 - 📫 How to reach me: [linkedin.com/in/caiovidal/](https://www.linkedin.com/in/caiovidal/)
 
-[![Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=caioavidal)](https://github.com/caioavidal/github-readme-stats)
+## 🚧  GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=caioavidal&show_icons=true&include_all_commits)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioavidal&layout=compact)
