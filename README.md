@@ -11,7 +11,7 @@
 - [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) - Open-source MMORPG server emulator written in C#/.NET 5
 - [Chip-8 Interpreter](https://github.com/caioavidal/chip8-interpreter) - A chip8 interpreter written in C#
 - [InstaCore](https://github.com/caioavidal/InstaCore) Instagram Automation Tool written in C# using Selenium WebDriver
-- [codility](https://github.com/caioavidal/codility) - Codility challanges in Javascript
+- [codility](https://github.com/caioavidal/codility) - Codility challenges in Javascript
 
 ## 🚧  GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=caioavidal&show_icons=true&include_all_commits)
