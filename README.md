@@ -1,7 +1,7 @@
 ## Hi there
 
 - 🔭 I’m currently working on [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) Emulator Server
-- 🌱 I’m currently studying .NET 5, C#, Microservices and Emulation Development
+- 🌱 I’m currently studying .NET 5, C#, microservices and performance.
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 I’m looking for help with emulation development
 - 📫 How to reach me: [linkedin.com/in/caiovidal/](https://www.linkedin.com/in/caiovidal/)
