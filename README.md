@@ -6,6 +6,9 @@
 - 🤔 I’m looking for help with .NET internals, memory management and application diagnostics
 - 📫 How to reach me: [linkedin.com/in/caiovidal/](https://www.linkedin.com/in/caiovidal/)
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,azure,docker,git,visualstudio)](https://skillicons.dev)
+
 ## Some interesting things I've written
 
 - [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) - Open-source MMORPG server emulator written in C#/.NET 5
